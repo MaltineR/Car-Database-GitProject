@@ -17,7 +17,7 @@ git history
 
 Screenshot of commit history:
 
-\!\[Commit Graph](images/AliasHistory.PNG)
+![Commit Graph](images/AliasHistory.PNG)
 
 ## Branches
 There is also a branch named 'Tesla' with a recovered commit.
